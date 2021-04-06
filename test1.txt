@@ -1,0 +1,309 @@
+Simulation time : 0
+waiting clients : ( 3 7 3 )( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 1
+waiting clients : ( 3 7 3 )( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 2
+waiting clients : ( 3 7 3 )( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 3
+waiting clients : ( 3 7 3 )( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 4
+waiting clients : ( 3 7 3 )( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 5
+waiting clients : ( 3 7 3 )( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 6
+waiting clients : ( 3 7 3 )( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 7
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: ( 3 7 3 )
+Queue 2: no clients
+
+Simulation time : 8
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: ( 3 7 2 )
+Queue 2: no clients
+
+Simulation time : 9
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: ( 3 7 1 )
+Queue 2: no clients
+
+Simulation time : 10
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 11
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 12
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 13
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 14
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 15
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 16
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 17
+waiting clients : ( 1 18 3 )( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 18
+waiting clients : ( 2 27 3 )( 4 28 3 )
+Queue 1: ( 1 18 2 )
+Queue 2: no clients
+
+Simulation time : 19
+waiting clients : ( 2 27 3 )( 4 28 3 )
+Queue 1: ( 1 18 1 )
+Queue 2: no clients
+
+Simulation time : 20
+waiting clients : ( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 21
+waiting clients : ( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 22
+waiting clients : ( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 23
+waiting clients : ( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 24
+waiting clients : ( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 25
+waiting clients : ( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 26
+waiting clients : ( 2 27 3 )( 4 28 3 )
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 27
+waiting clients : ( 4 28 3 )
+Queue 1: ( 2 27 3 )
+Queue 2: no clients
+
+Simulation time : 28
+waiting clients : 
+Queue 1: ( 2 27 2 )
+Queue 2: ( 4 28 3 )
+
+Simulation time : 29
+waiting clients : 
+Queue 1: ( 2 27 1 )
+Queue 2: ( 4 28 2 )
+
+Simulation time : 30
+waiting clients : 
+Queue 1: no clients
+Queue 2: ( 4 28 1 )
+
+Simulation time : 31
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 32
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 33
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 34
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 35
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 36
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 37
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 38
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 39
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 40
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 41
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 42
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 43
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 44
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 45
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 46
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 47
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 48
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 49
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 50
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 51
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 52
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 53
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 54
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 55
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 56
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 57
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 58
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 59
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+Simulation time : 60
+waiting clients : 
+Queue 1: no clients
+Queue 2: no clients
+
+
+average waiting time : 0.0
+peak hour : 7
+average service time : 3.0
