@@ -1,7 +1,30 @@
 package validator;
 
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class InputValidator {
 
+    public List<String> readColumns(String inputFilePath){
+
+        List<String> columns = new ArrayList<>();
+        try{
+
+            File inputF = new File(inputFilePath);
+            InputStream inputFS = new FileInputStream(inputF);
+            BufferedReader br = new BufferedReader(new InputStreamReader(inputFS));
+
+            String firstLine = br.readLine();
+            columns = Arrays.asList(firstLine.split(","));
+
+            br.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return columns ;
+    }
     /**
      *
      */
